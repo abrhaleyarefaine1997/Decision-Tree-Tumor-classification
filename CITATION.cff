@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Decision Tree Tumor Classification"
+authors:
+  - family-names: Hailenchael
+    given-names: Abrhaley
+    orcid: https://orcid.org/0000-0000-0000-0000  # Optional: update if you have an ORCID
+date-released: 2024-05-05
+url: https://github.com/abrhaleyarefaine1997/Decision-Tree-Tumor-classification
+repository-code: https://github.com/abrhaleyarefaine1997/Decision-Tree-Tumor-classification
+
+## Acknowledgments
+
+This project was developed as a personal learning exercise based on the ["IBM Machine Learning Crash Course"](https://https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS). Significant modifications and implementations were made by Abrhaley Hailenchael.
+
+
