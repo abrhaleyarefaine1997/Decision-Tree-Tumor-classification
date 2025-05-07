@@ -4,13 +4,15 @@ title: "Decision Tree Tumor Classification"
 authors:
   - family-names: Hailenchael
     given-names: Abrhaley
-    orcid: https://orcid.org/0000-0000-0000-0000  # Optional: update if you have an ORCID
-date-released: 2024-05-05
+    orcid: https://orcid.org/0000-0000-0000-0000  # Optional: replace with your real ORCID if you have one
+date-released: 2024-05-14
 url: https://github.com/abrhaleyarefaine1997/Decision-Tree-Tumor-classification
 repository-code: https://github.com/abrhaleyarefaine1997/Decision-Tree-Tumor-classification
-
-## Acknowledgments
-
-This project was developed as a personal learning exercise based on the ["IBM Machine Learning Crash Course"](https://https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS). Significant modifications and implementations were made by Abrhaley Hailenchael.
-
-
+references:
+  - type: webpage
+    authors:
+      - name: IBM
+    title: "Machine Learning with Python"
+    url: https://www.coursera.org/learn/machine-learning-with-python
+    date-accessed: 2025-05-07
+    publisher: Coursera
